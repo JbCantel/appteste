@@ -1,29 +1,16 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "status": "inativo"
+      "name": "Joca Silva",
+      "id": "1"
     },
     {
-      "id": "2",
-      "name": "Maricleuza Sirineuza",
-      "email": "mari@cleuza.com",
-      "status": "ativo"
-    },
-    {
-      "name": "Setembrino Trocatapas\n",
-      "email": "set@brino.com",
+        
+    
+      "name": "Mariclaudia Borrabotas",
+      "email": "mari@claudia.com",
       "status": "ativo",
-      "id": "guqNOrt"
-    },
-    {
-      "name": "Hermenildo Cesário\n",
-      "email": "herme@nilso.com",
-      "status": "ativo",
-      "birth": "2000-10-10",
-      "id": "D5-Kw98"
+      "id": "Xvno55Z"
     }
   ],
   "messages": [
