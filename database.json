@@ -1,19 +1,43 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "id": "1",
+      "name": "Joca da Silva",
+      "email": "joca@silva.com",
+      "status": "inativo"
+    },
+    {
+      "id": "2",
+      "name": "Maricleuza Sirineuza",
+      "email": "mari@cleuza.com",
+      "status": "ativo"
+    },
+    {
+      "name": "Setembrino Trocatapas\n",
+      "email": "set@brino.com",
+      "status": "ativo",
+      "id": "guqNOrt"
+    },
+    {
+      "name": "Hermenildo Cesário\n",
+      "email": "herme@nilso.com",
+      "status": "ativo",
+      "birth": "2000-10-10",
+      "id": "D5-Kw98"
     }
   ],
-  "comments": [
+  "messages": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": "1",
+      "from": "1",
+      "to": "2",
+      "text": "Não estou entendendo nada disso."
+    },
+    {
+      "id": "2",
+      "from": "2",
+      "to": "1",
+      "text": "Eu tamém num tendi nada!"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
